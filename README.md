@@ -4,17 +4,6 @@
 
 <p> An end to end web application is created using Flask to predict the disease classification.</p>
 
-### Machine Learning
-
-<p>Models are created using sklearn libraries and ensemble techniques like Random forest and boosting techniques like xgboost.
-  <br>
-  This is a simple web application which has 5 sections to predict the classification of Heart, Liver, Kidney, Cancer and Diabetes.
- </p>
-
- 
- <p> .py model files and .pkl files are attached in this repositary.</p>
-
-
 ### Libraries Used:
   <li>Sci-kit Learn</li>
   <li>Flask</li>

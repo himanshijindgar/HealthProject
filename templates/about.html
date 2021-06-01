@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block title %}Diabetes {% endblock %}
+{% block body %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+        <!-- ***** About Area Starts ***** -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-xs-12">
+                    <div class="left-text-content">
+                        <div class="section-heading">
+                            <h6>About</h6>
+                            <h2>Learning is the key to success</h2>
+                        </div>
+                        <p> We have created this website as a part of our Final Year Project. We have used ensemble techniques and regression algorithms for this project.
+                            <br>We are open for any discussion related to Data science and keen to learn new things.
+                            <br><br>Please contact for more information.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12">
+                    <div class="right-content">
+                        <div class="thumb">
+                            <img src="../static/images/about1.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** About Area Ends ***** -->
+    <!-- ***** Footer Start ***** -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-xs-12">
+
+                    <div class="right-text-content">
+                            <ul class="social-icons">
+                                <li><a href="https://github.com/himanshijindgar"><i class="fa fa-github"></i></a></li>
+                                <li><a href="https://twitter.com/imgitanshgera22"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/sachin-parashar-568801148"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/_.saanvi._"><i class="fa fa-instagram"></i></a></li>
+                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+{% endblock %}

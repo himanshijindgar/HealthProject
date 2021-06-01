@@ -10,13 +10,7 @@
   <br>
   This is a simple web application which has 5 sections to predict the classification of Heart, Liver, Kidney, Cancer and Diabetes.
  </p>
- 
- ##### Jupyter Notebooks link
- <li>Heart Disease Prediciton: https://github.com/premkumar25/Heart-Disease-Prediction </li>
- <li>Liver Disease Prediciton: https://github.com/premkumar25/Liver_Disease_prediction </li>
- <li>Kidney Disease Prediciton: https://github.com/premkumar25/Kidney-Disease-Prediction </li>
- <li>Cancer Prediciton: https://github.com/premkumar25/Breast-Cancer-Prediction </li>
- <li>Diabetes Classification: https://github.com/premkumar25/Diabetes-Classification </li>
+
  
  <p> .py model files and .pkl files are attached in this repositary.</p>
 
